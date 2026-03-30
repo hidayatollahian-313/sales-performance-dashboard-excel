@@ -87,7 +87,7 @@ B&J-Biscuit-Dashboard
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](B%20%26%20J%20Biscuit%20Dashboard.png)
 
 ---
 
@@ -109,8 +109,8 @@ This dashboard demonstrates how Excel can be used effectively for business perfo
 
 ## Connect
 
-LinkedIn: [Your LinkedIn Link]  
-GitHub: [Your GitHub Profile]  
+LinkedIn: [[Your LinkedIn Link] ](https://www.linkedin.com/in/hidayat-ullah-5060743b6/) 
+GitHub: [[Your GitHub Profile]](https://github.com/hidayatollahian-313)  
 
 ---
 
